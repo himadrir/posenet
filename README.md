@@ -1,4 +1,4 @@
-# posenet
+# Posenet++
 1. It solves the **Kidnapped-Robot problem** by regressing poses of images that are part of a scene(used KITTI dataset's left image and poses ground truth).
 2. [Paper Link](https://posenet-mobile-robot.github.io/etc/Team%2016%20-%20ROB%20530.pdf)
 ## Implementation of PoseNet++
