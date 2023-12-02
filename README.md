@@ -9,3 +9,4 @@
 ## TODOs:
 * Implement GTSAM and use this CNN based pose-regressor as a sensor along with other sensors such as GPS, IMU, etc for reliable odometry source.
 * Add a feature where the model can regress both euler and quaternions depending on the input and out desired. Currently only outputs, x y z roll pitch yaw.
+* Implement transfer learning so that we dont have to retrain the complete model and can fine tune it which is efficient.
